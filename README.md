@@ -16,9 +16,4 @@ My previous realizations are :
 🔭 I’m currently working on extended website with several capacites for Solana token creators 
 🌱 I’m currently learning FunC, Move, and Ralph 
 📫 How to reach me:  @ElSaguaro on Telegram
-  
-
-Languages and Tools:
-
-amplify angular aws  css3 docker express figma firebase  git groovy  html5 java javascript karma laravel linux mocha mongodb  nextjs nginx nodejs nuxtjs opencv oracle photoshop php postgresql postman python react redux  rust sass sqlite tailwind  typescript unity vuejs xd
- 
+   
