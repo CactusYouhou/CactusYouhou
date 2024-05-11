@@ -10,6 +10,7 @@ My previous realizations are :
    - Web3 sites (Pancakeswap forks, Staking, Lottery, swap, user management, sniper, token creation), various bots from pinksale market making to volume boosting
  - Solana world
    - Lottery contract
+   - Raydium forking
    - Several bots (pinksale market making, volume boosting, classical market making with or without jito capacities)
 
 
@@ -17,3 +18,4 @@ My previous realizations are :
 🌱 I’m currently learning FunC, Move, and Ralph 
 📫 How to reach me:  @ElSaguaro on Telegram
    
+* For those who need raydium testnet and openbook testnet, u can find my deployed versions here : RAYDIUM_ADDRESS=GLZ5apEnptPXRxZHjhnNSMrFb6Gi3b4tLDFiexDJwiZe, OPENBOOK_ADDRESS=A4UNure2iX4kAHdwWWFPsiNgCbKjxQ8FrjPezjnvkYfZ
